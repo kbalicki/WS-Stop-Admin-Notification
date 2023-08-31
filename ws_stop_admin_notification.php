@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: WS Stop Admin Notification
- * Description: WS Stop disable New User registration and User password change email notifications for Admin
+ * Description: Disable New User registration and User password change email notifications for Admin
  * Version:           0.9
  * Author:            Web Systems
  * Author URI:        https://www.web-systems.pl
